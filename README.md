@@ -1,6 +1,6 @@
 # DevPSU ReactJS Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Task:
+Create a webapp using Node.js which extracts "to-do's" from a dummy API and displays them nicely.
 
-### Note:
-I was able to get the to do list to display upon editing & saving my code, but once I reload the page, props in Todos.js becomes undefined (I catch the error in my code so the webpage displays a message explaining that I couldn't figure out how to fix it).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
